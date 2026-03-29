@@ -1,0 +1,10 @@
+loaded_h_0(function(_){var window=this;
+_.v("OoK5v");
+_.dM=new _.Yf(_.cr);
+_.x();
+_.v("X1kBmd");
+_.dg(_.j3a,class extends _.go{static Ta(){return{service:{Dh:_.dM}}}constructor(a){super();this.Dh=a.service.Dh}prefetch(a){return this.Dh.prefetch(a)}showViewerLite(a){let b,c,d,e,f;const g={OX:(b=a.getClickTimestamp)==null?void 0:b.call(a),viewerType:a.getViewerType(),modality:(c=a.getModality)==null?void 0:c.call(a),C3:a.getModalityOverride?(0,_.h7e)(a.getModalityOverride()):void 0,entrypoint:a.getEntrypoint(),interactionVed:a.getInteractionVed(),Ura:a.getReplaceContainingViewer(),contentPluginType:a.getContentPluginType(),
+msa:a.getSerializedPluginData(),rKb:!((d=a.getUseDomSwipeGroup)==null||!d.call(a)),QX:a.getSerializedCloseConfig?(0,_.wdf)(a.getSerializedCloseConfig()):void 0,contentId:(e=a.getContentId)==null?void 0:e.call(a),hca:(f=a.getDisableEntrypointMorph)==null?void 0:f.call(a)};return this.Dh.showViewerLite(g)}});
+_.x();
+});
+// Google Inc.

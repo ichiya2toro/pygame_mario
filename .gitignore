@@ -1,0 +1,18 @@
+# 1. 仮想環境（これが一番重要！）
+.venv/
+myenv/
+venv/
+ENV/
+
+# 2. Pythonの一時キャッシュ
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 3. VS Codeなどのエディタ設定（チーム開発なら除外が一般的）
+.vscode/
+.idea/
+
+# 4. OSが生成するゴミファイル
+Thumbs.db
+desktop.ini
